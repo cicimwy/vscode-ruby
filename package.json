@@ -85,7 +85,7 @@
 						"name": "Ruby Debugger",
 						"type": "Ruby",
 						"request": "launch",
-						"program": "main.rb"
+						"program": "${workspaceRoot}/main.rb"
 					}
 				]
 			}
